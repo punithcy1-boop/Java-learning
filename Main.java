@@ -1,6 +1,6 @@
 class Main {
     public static void main(String[] args) {
-        int a = 19;
+        int a = 25;
         int b = 20;
         int sum = a + b;
 
